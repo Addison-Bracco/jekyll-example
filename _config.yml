@@ -1,10 +1,10 @@
 title : My First Jekyll Site 
 author : 
-  name : Addison Bracco 
+  name : addison bracco 
   email : aebrac25@stlawu.edu 
-  github : Addison-Bracco
+  github : addison-bracco
 
-url: "https://Addison-Bracco.github.io" # the base hostname & protocol for your site
+url: "https://addison-bracco.github.io" # the base hostname & protocol for your site
 baseurl: "/jekyll-example" # the subpath of your site, e.g. /repositoryname
 
 remote_theme: mmistakes/minimal-mistakes@4.27.3
