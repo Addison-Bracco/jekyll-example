@@ -2,12 +2,13 @@
 layout: home 
 title: welcome home 
 exceprt: this is a text excerpt 
-overlay_image: /assests/images/palmtree.jpg 
+header:
+    overlay_image: /assests/images/palmtree.jpg 
 
-actions 
--label: "learn more" 
-url: /about 
-overlay_filter: rgba(79,99,82,0.5)
+    actions:
+        - label: "learn more" 
+          url: /about 
+    overlay_filter: rgba(79,99,82,0.5)
 ---
 
 # This is my homepage 
