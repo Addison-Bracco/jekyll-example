@@ -1,6 +1,6 @@
 ---
 layout: home 
-title: welcome home 
+title: Welcome to Fleurévielle
 exceprt: this is a text excerpt 
 header:
     overlay_image: /assets/images/palmtree.jpg 
