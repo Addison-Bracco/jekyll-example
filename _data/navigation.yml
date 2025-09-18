@@ -1,7 +1,9 @@
 main: 
   - title: "About" 
     url: /about 
-  - title: "Histiory"
-    url: /Histiory
+  - title: "History"
+    url: /History
+  - title: "Activities"
+    url: /Activities
 
 
