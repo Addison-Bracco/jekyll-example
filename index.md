@@ -3,7 +3,7 @@ layout: home
 title: welcome home 
 exceprt: this is a text excerpt 
 header:
-    overlay_image: /assests/images/palmtree.jpg 
+    overlay_image: /assets/images/palmtree.jpg 
 
     actions:
         - label: "learn more" 
