@@ -8,7 +8,7 @@ header:
     actions:
         - label: "learn more" 
           url: /about 
-    overlay_filter: rgba(79,99,82,0.5)
+    overlay_filter: rgba(246, 208, 243, 0.5)
 ---
 
 # Facts about Fleurévielle
