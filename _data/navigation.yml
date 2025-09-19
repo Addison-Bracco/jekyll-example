@@ -5,5 +5,7 @@ main:
     url: /History
   - title: "Activities"
     url: /Activities
+  - title: "Dining"
+    url: /Dining
 
 
