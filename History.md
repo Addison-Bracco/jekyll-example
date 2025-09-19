@@ -2,3 +2,5 @@
 title: History 
 layout: single 
 ---
+
+Long ago, before time kept proper hours, the land that would become Fleurévielle was nothing but soft mist and moonlight. One evening, under a sky spun with stars, a visionary seamstress named Almire stitched a veil of rose‑silk across the horizon. From that veil, the first stones of the city appeared: pale cobblestones, carved with lace motifs, balconies of wrought iron coiled into hearts, and fountains that whispered with the aroma of roses. Almire was beloved not for conquest or wealth, but because she believed fashion and beauty were magic — that a ribbon, a shade of pink, a folded pleat could stir the heart. She appointed the first Duchesse — not by blood, but by grace — saying that whoever could weave light into fabric and kindness into speech would lead. And so Fleurévielle was born, a kingdom where dresses tell stories, pastries soften grief, and every morning begins with rose petals on the windowsills.
