@@ -15,6 +15,6 @@ The Pink Ball – A monthly masquerade hosted by the Duchesse, where everyone mu
 
 Shopping- Citizens love to stay up to date with the newset fashions. Stately road is filled with shopping centers and the trendiest stores. 
 
-Pilaties- Weekly classes are offered and loved by our residents
+Pilates- Weekly classes are offered and loved by our residents
 
 
