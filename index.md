@@ -3,7 +3,7 @@ layout: home
 title: Welcome to Fleurévielle
 exceprt: this is a text excerpt 
 header:
-    overlay_image: /assets/images/palmtree.jpg 
+    overlay_image: /assets/images/fleurhome.jpg
 
     actions:
         - label: "learn more" 
